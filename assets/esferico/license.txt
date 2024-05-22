@@ -1,0 +1,11 @@
+Model Information:
+* title:	Opensource Panoviewer: Panocube
+* source:	https://sketchfab.com/3d-models/opensource-panoviewer-panocube-38509b455e6e473fa45815d30dba4ff8
+* author:	FabKzo (https://sketchfab.com/fabkzo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Opensource Panoviewer: Panocube" (https://sketchfab.com/3d-models/opensource-panoviewer-panocube-38509b455e6e473fa45815d30dba4ff8) by FabKzo (https://sketchfab.com/fabkzo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
