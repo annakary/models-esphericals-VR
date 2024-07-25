@@ -1,0 +1,8 @@
+Model Information:
+* title:	HDRI Next Level Forest Panorama D
+* source:	https://sketchfab.com/3d-models/hdri-next-level-forest-panorama-d-77c76942ff54484593acc0e93cb5bc4e
+* author:	Ionut81 (https://sketchfab.com/Ionut81)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
