@@ -18,17 +18,18 @@
 
         <!-- Añadir el modelo envolvente 3D -->
         <a-entity id="environment" 
-                  scale="10 10 10"
+                  scale="10 9 10"
                   gltf-model="#environment-asset" 
-                  position="0 0 0"></a-entity>
+                  position="0 100 0"
+                  rotation="0 160 0"></a-entity>
         
         <!-- Añadir el modelo interior 3D dentro del entorno -->
         <a-entity id="interior-model" 
-            scale="12.25402344748577780 12.25402344748577780 12.25402344748577780"
+            scale="700.25402344748577780 850.25402344748577780 230.25402344748577780"
             animation-mixer="clip: run"
             gltf-model="#interior-asset" 
-                  position="10 -35 80"
-                  rotation="0 185 0"></a-entity>
+                  position="200 -2500 -3900"
+                  rotation="0 0 0"></a-entity>
     </a-scene>
 </body>
 </html>
